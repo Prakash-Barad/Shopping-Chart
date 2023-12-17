@@ -1,0 +1,40 @@
+body {
+  margin: 0px;
+  font-family: monospace;
+  font-size: large;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  background-color: rgb(161, 179, 193);
+  background-image: url("./bg.avif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100vw 100vh;
+  color: rgba(7, 64, 108, 0.952);
+}
+
+button {
+  background-color: rgba(0, 9, 18, 0.865);
+  color: white;
+  height: 30px;
+  border-radius: 2px;
+  margin: 10px;
+}
+
+button:hover {
+  background-color: rgba(232, 232, 243, 0.925);
+  color: black;
+}
+
+.content {
+  position: relative;
+  top: 80px;
+  text-align: center;
+}
+marquee{
+  color: rgb(171, 54, 3);
+  font-size: larger;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

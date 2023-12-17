@@ -1,0 +1,19 @@
+.List{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+}
+.Mobile{
+    background-color: rgba(229, 232, 237, 0.872);
+    border-radius: 15px;
+    padding: 20px;
+    height: auto;
+    width:400px;
+    margin: 20px; 
+    text-align: center;
+    box-shadow:5px 10px 8px 5px #888888;
+}
+.title{
+    text-align: center;
+}

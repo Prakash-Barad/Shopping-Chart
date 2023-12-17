@@ -1,0 +1,18 @@
+.quantity {
+  display: inline;
+}
+.buy {
+  height: 50px;
+  width: 100px;
+  border-radius: 25px;
+ background-color: rgb(9, 115, 181);
+ color: white;
+ float: right;
+ font-weight: bold;
+ position: absolute;
+ right: 0px;
+}
+.carttitle{
+  display: inline;
+}
+

@@ -1,0 +1,36 @@
+.nav {
+  display: flex;
+  margin: auto;
+  width: 99vw;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  background-color: rgba(14, 12, 12, 0.968);
+  color: white;
+}
+.heading {
+  font-weight: bolder;
+  font-size: x-large;
+  margin-left: 150px;
+  font-family: cursive;
+}
+.container {
+  display: flex;
+  justify-content: flex-end;
+  margin: auto;
+  margin-right: 60px;
+}
+.link {
+  border: 2px solid black;
+  margin: 5px;
+  padding: 5px;
+  background-color: rgba(203, 205, 210, 0.861);
+  border-radius: 5px;
+  height: 50px;
+  width: 100px;
+  text-decoration: none;
+}
+.click {
+  font-size: medium;
+  color: black;
+}
